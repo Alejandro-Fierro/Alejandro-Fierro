@@ -21,7 +21,7 @@ Cursando la carrera de Ingenieria en Sistemas Computacionales:
 
 
 
-#Horario de mi Semestre
+# Horario de mi Semestre
 
 |       | Lunes                 | Martes                 | Miercoles              | Jueves                 | Viernes               |
 |-------|-----------------------|------------------------|------------------------|------------------------|-----------------------|
