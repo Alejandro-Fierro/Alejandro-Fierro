@@ -10,7 +10,7 @@ Gusto de visitar el perfil del estudiante Luis Alejandro Fierro Vivian.
 
 Cursando la carrera de Ingenieria en Sistemas Computacionales:
 
--Aprendiendo los usos de GitHub
+-Aprendiendo los usos de GitHub.
 -Creando proyectos de mi carrera asi como personales
 
 
