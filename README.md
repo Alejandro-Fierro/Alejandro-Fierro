@@ -5,7 +5,7 @@
 ### Hola colegas 👋
 
 
-Gusto de visitar el perfil del docente 👨‍🏫 ✨ René Solis ✨.
+Gusto de visitar el perfil del estudiante Luis Alejandro Fierro Vivian.
 
 Atendiendo estudiantes de PFLC y TecTijuana:
 
