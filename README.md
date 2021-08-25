@@ -1,6 +1,7 @@
-![](https://zeus.cooltext.com/Download?File=cooltext391590565806457.png)
+![](https://images.cooltext.com/5548657.png)
 
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5548657.png" width="288" height="71" alt="Alejandro-Fierro" /></a>
+<br />Image by <a href="https://cooltext.com">Cool Text: Free Logos and Buttons</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3915907223">Create An Image Just Like This</a>
 
 ### Hola colegas 👋
 
