@@ -9,22 +9,19 @@
 Gusto de visitar el perfil del estudiante Luis Alejandro Fierro Vivian.
 
 Cursando la carrera de Ingenieria en Sistemas Computacionales:
-
-*-Aprendiendo los usos de GitHub.
-*-Creando proyectos de mi carrera asi como personales
-
-
-
-
-Inventario maker para cursos
-- Arduino clasico
-- STM32
-- RaspberryPi 
-- kit de sensores y herramientas soldar
+- Aprendiendo los usos de GitHub.
+- Creando proyectos de mi carrera asi como personales.
+- Me gustan los videojuegos y la historia.
+- Viendo si la programacion es lo Mio.
 
 
 
-Horario de mi Semestre
+
+
+
+
+
+#Horario de mi Semestre
 
 |       | Lunes                 | Martes                 | Miercoles              | Jueves                 | Viernes               |
 |-------|-----------------------|------------------------|------------------------|------------------------|-----------------------|
