@@ -16,26 +16,6 @@ Cursando la carrera de Ingenieria en Sistemas Computacionales:
 
 
 
-
-
-
-
-
-# Horario de mi Semestre
-
-|       | Lunes                 | Martes                 | Miercoles              | Jueves                 | Viernes               |
-|-------|-----------------------|------------------------|------------------------|------------------------|-----------------------|
-| 8:00  | Metodos Numericos     | Metodos  Numericos     | Metodos Numericos      | Metodos Numericos      |                       |
-| 9:00  |                       |                        |                        |                        |                       |
-| 10:00 | Base de Datos         | Base de  Datos         | Base de  Datos         | Base de  Datos         | Base de  Datos        |
-| 11:00 |                       |                        |                        |                        |                       |
-| 12:00 | Simulacion            | Simulacion             | Topicos                | Simulacion             | Topicos               |
-| 13:00 | Topicos               | Simulacion             | Topicos                | Simulacion             | Topicos               |
-| 14:00 | Lenguajes Interfaz    | Lenguajes Interfaz     | Lenguajes Interfaz     | Lenguajes Interfaz     |                       |
-| 15:00 | Desarrollo Sutentable | Desarrollo Sustentable | Desarrollo Sustentable | Desarrollo Sustentable | Desarrollo Sustenable |
-| 16:00 |                       |                        |                        |                        |                       |
-| 17:00 | Telecomunicaciones    | Telecomunicaciones     | Telecomunicaciones     | Telecomunicaciones     |                       |
-
 Guias:
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
