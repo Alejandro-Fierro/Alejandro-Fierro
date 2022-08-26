@@ -12,7 +12,7 @@ Actualmente los lenguajes que manejo:
 - SQL Server
 - Learning Kotlin and CSS
 
-#Horario 7mo semestre
+# Horario 7mo semestre
 | HORA        | Lunes                            | Martes                           | Miercoles                       | Jueves                          | Viernes                    |
 |-------------|----------------------------------|----------------------------------|---------------------------------|---------------------------------|----------------------------|
 | 1:00 - 2:00 | Admin. base de datos             | Admin. Base de datos             | Admin. Base de datos            | Admin. Base de datos            | Admin. Base de datos       |
