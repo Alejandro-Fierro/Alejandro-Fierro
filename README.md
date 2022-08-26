@@ -12,3 +12,13 @@ Actualmente los lenguajes que manejo:
 - SQL Server
 - Learning Kotlin and CSS
 
+#Horario 7mo semestre
+| HORA        | Lunes                            | Martes                           | Miercoles                       | Jueves                          | Viernes                    |
+|-------------|----------------------------------|----------------------------------|---------------------------------|---------------------------------|----------------------------|
+| 1:00 - 2:00 | Admin. base de datos             | Admin. Base de datos             | Admin. Base de datos            | Admin. Base de datos            | Admin. Base de datos       |
+| 2:00 - 3:00 |                                  |                                  |                                 |                                 | Gestion de Proyectos       |
+| 3:00 - 4:00 | Gestion de Proyectos de Software | Gestion de Proyectos de Software | Gestion de Proyectos            | Gestion de Proyectos            | Gestion de Proyectos       |
+| 4:00 - 5:00 | Conmutacion y Enrutamiento       | Conmutacion y Enrutamiento       | Conmutacion y Enrutamiento      | Conmutacion y Enrutamiento      | Conmutacion y Enrutamiento |
+| 5:00 - 6:00 | Sistemas Programables            | Sistemas Programables            | Sistemas Programables           | Sistemas Programables           | Sistemas Programables      |
+| 6:00 - 7:00 | Lenguajes y Automatas \|\|       | Lenguajes y Automatas \|\|       | Lenguajes y Automatas \|\|      | Lenguajes y Automatas \|\|      |                            |
+| 7:00 - 8:00 | Programacion Logica y Funcional  | Programacion Logica y Funcional  | Programacion Logica y Funcional | Programacion Logica y Funcional |                            |
