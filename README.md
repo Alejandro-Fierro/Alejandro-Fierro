@@ -12,6 +12,11 @@ Actualmente los lenguajes que manejo:
 - SQL Server
 - Learning Kotlin and CSS
 
+![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Fierro&show_icons=true&theme=tokyonight)
+<div></div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejandro-Fierro&theme=tokyonight&layout=compact"></img>
+
+
 # Horario 7mo semestre
 | HORA        | Lunes                            | Martes                           | Miercoles                       | Jueves                          | Viernes                    |
 |-------------|----------------------------------|----------------------------------|---------------------------------|---------------------------------|----------------------------|
