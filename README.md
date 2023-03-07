@@ -12,8 +12,8 @@
 - flutter
 - .NET Frameworks
 - SQL Server
-- Learning Kotlin
-
+- Kotlin
+- Python
 
 ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alejandro-Fierro&show_icons=true&theme=tokyonight)
 <div></div>
