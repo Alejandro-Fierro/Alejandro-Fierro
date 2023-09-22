@@ -3,7 +3,10 @@
 - Aprendiendo los usos de GitHub.
 - Creando proyectos de mi carrera asi como personales.
 - Me gustan los videojuegos y la historia.
-- Viendo si la programacion es lo Mio.
+- Trabajando como desarrollador de aplicaciones moviles y web
+- Participante de BiomedTech Hackaton
+- Ganador 2do lugar Inovatec 2022
+- Particpante en Hackmty 2023
 
 ## Actualmente los lenguajes que manejo:
 - C#
